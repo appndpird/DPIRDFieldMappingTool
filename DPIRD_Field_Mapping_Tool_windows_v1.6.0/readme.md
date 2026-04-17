@@ -153,3 +153,5 @@ Delete the entire folder. Nothing is installed system-wide.
 ## 10. Author & Acknowledgements
 
 **Author:** Bipul Neupane, PhD — Research Scientist, DPIRD
+
+**Contributor** Bipul Neupane: [GitHub](https://github.com/bipulneupane).
