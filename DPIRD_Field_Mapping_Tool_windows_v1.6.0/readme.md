@@ -153,5 +153,3 @@ Delete the entire folder. Nothing is installed system-wide.
 ## 10. Author & Acknowledgements
 
 **Author:** Bipul Neupane, PhD — Research Scientist, DPIRD
-
-**Acknowledgement:** This tool was developed with the assistance of Claude AI (https://claude.ai), an AI assistant created by Anthropic mostly for the GUI part.
