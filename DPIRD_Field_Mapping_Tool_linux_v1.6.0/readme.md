@@ -226,4 +226,4 @@ rm -rf /path/to/DPIRD_Field_Mapping_Tool
 
 **Author:** Bipul Neupane, PhD — Research Scientist, DPIRD
 
-**Acknowledgement:** This tool was developed with the assistance of Claude AI (https://claude.ai), an AI assistant created by Anthropic mostly for the GUI part.
+**Contributor** Bipul Neupane: [GitHub](https://github.com/bipulneupane).
