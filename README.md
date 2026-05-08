@@ -10,7 +10,7 @@ Developed at the [Department of Primary Industries and Regional Development (DPI
 
 - **Generate Grid** — Create regular plot grids over drone orthomosaics by drawing a trial boundary and specifying banks, rows, buffer, and plot dimensions.
 - **Edit Grid** — Interactive browser-based polygon editor with drag, vertex editing, multi-select, copy/paste, measurements, undo, and keyboard shortcuts.
-- **Convert File** — Convert between Shapefile, GeoJSON, GeoPackage, KML, and HDF5 formats with optional CRS reprojection (GDA2020, GDA94, WGS 84, or custom EPSG).
+- **Convert File** — Convert between Shapefile, GeoJSON, GeoPackage, and KML formats with optional CRS reprojection (GDA2020, GDA94, WGS 84, or custom EPSG).
 - **Cropping Tool** — Crop rasters (orthophotos, DSMs, GeoTIFFs) to individual plot polygon boundaries, producing one file per plot.
 
 All data is processed locally. No internet connection is required after installation.
