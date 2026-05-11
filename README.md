@@ -91,7 +91,7 @@ Installed automatically by the setup scripts:
 
 ## Documentation
 
-[DPIRD_Field_Mapping_Tool_Documentation.docx](https://github.com/appndpird/DPIRDFieldMappingTool/blob/main/DPIRD_Field_Mapping_Tool_Documentation.pdf) provides the full usage instructions for the tool.
+[DPIRD_Field_Mapping_Tool_Documentation.pdf](https://github.com/appndpird/DPIRDFieldMappingTool/blob/main/DPIRD_Field_Mapping_Tool_Documentation.pdf) provides the full usage instructions for the tool.
 
 ---
 
