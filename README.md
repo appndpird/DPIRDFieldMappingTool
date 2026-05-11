@@ -91,12 +91,7 @@ Installed automatically by the setup scripts:
 
 ## Documentation
 
-Each platform folder contains a detailed installation and usage guide:
-
-- **Windows:** [`DPIRD_Field_Mapping_Tool_windows_v1.6.0/INSTALL_WINDOWS.md`](DPIRD_Field_Mapping_Tool_windows_v1.6.0/readme.md)
-- **Linux / macOS:** [`DPIRD_Field_Mapping_Tool_linux_v1.6.0/INSTALL_LINUX_MACOS.md`](DPIRD_Field_Mapping_Tool_linux_v1.6.0/readme.md)
-
-A comprehensive Word document (`DPIRD_Field_Mapping_Tool_Documentation.docx`) with full usage instructions for all four tool tabs is also available within each distribution.
+[DPIRD_Field_Mapping_Tool_Documentation.docx](https://github.com/appndpird/DPIRDFieldMappingTool/blob/main/DPIRD_Field_Mapping_Tool_Documentation.pdf) provides the full usage instructions for the tool.
 
 ---
 
